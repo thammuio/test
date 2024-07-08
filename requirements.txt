@@ -1,0 +1,4 @@
+altair
+seaborn
+streamlit
+pandas
